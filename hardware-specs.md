@@ -25,6 +25,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 ```
 
 ## Key Specs
+Add hardware specs - fresh Ubuntu 24.04 install on MacBook Pro 2015
 - **Model:** MacBook Pro 12,1 (Early 2015)
 - **OS:** Ubuntu 24.04 LTS (replaced EOL macOS)
 - **CPU:** Intel Core i5 2.7GHz Dual Core
