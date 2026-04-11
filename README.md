@@ -1,68 +1,96 @@
-
-# MacBook Pro 2015 → Ubuntu Conversion Lab
+# MacBook Pro 2015 → Ubuntu Lab
 
 ## Overview
-This project documents the full conversion of a 2015 MacBook Pro from macOS to Ubuntu Linux. The goal was to create a lightweight, optimized system for Linux learning, cybersecurity experimentation, and technical documentation.
 
-## Why This Project Matters
-- Demonstrates system-level deployment and OS replacement
-- Shows structured documentation and risk awareness
-- Provides a repeatable lab environment for cybersecurity learning
+This project documents my process of converting a 2015 MacBook Pro from macOS to Ubuntu Linux.
 
-## Final Outcome
-- Ubuntu successfully installed and optimized
-- System stable and functional for daily use
-- Foundation established for security and AI lab work
+The goal of this lab is to gain hands-on experience with:
+- Linux system installation
+- System configuration
+- Basic security setup
+- Performance optimization on limited hardware
 
+This project is structured in phases to track both execution and learning over time.
 
+---
 
+## Objectives
 
+- Replace macOS with Ubuntu Linux
+- Build a stable and usable Linux environment
+- Apply basic security controls
+- Improve system performance on older hardware
+- Document the entire process step-by-step
 
+---
 
+## Project Phases
 
-# MacBook Pro 2015 → Ubuntu Linux Conversion
+1. Pre-Install Backup & Preparation  
+2. Ubuntu Clean Installation  
+3. Post-Install Configuration  
+4. Security Hardening  
+5. Local AI Setup  
+6. Performance Optimization  
+7. Terminal Customization  
+8. Documentation & GitHub Setup  
 
-**Operator:** Rafael San Inocencio
-**Started:** April 2026
-**Status:** In Progress — Phase 1: Pre-Install Backup & Prep
+---
 
-## Project Goal
-Full conversion of a 2015 MacBook Pro from EOL macOS to Ubuntu 22.04 LTS.
-No dual boot — clean replace. Machine becomes a security lab, local AI 
-host (Ollama), and dedicated writing environment.
+## Phase 1 — Pre-Install Backup & Preparation
 
-## 8 Phases
-1. Pre-Install Backup & Prep
-  ## Phase 1 — Pre-Install Backup & Prep
+═══════════════════════════════════════
 
-### Objective
-Prepare the system for a full operating system replacement by securing all important data before performing a complete disk wipe.
+OBJECTIVE:
+- Prepare the system for OS replacement by backing up all important data
+- Reduce risk of data loss before installation
 
-### What I Did
-- Reviewed existing files on macOS and identified critical data
+SCOPE:
+- Backup of files
+- Transfer of large media
+- Verification of backups
+
+TOOLS USED:
+- Google Drive
+- macOS Finder
+
+KEY ACTIONS PERFORMED:
 - Backed up important files to Google Drive
-- Transferred large image files separately to ensure nothing was missed
-- Prepared the system for a full erase during Ubuntu installation
+- Transferred large files separately
+- Verified files were accessible after upload
 
-### Why I Did It
-A clean Ubuntu installation requires wiping the entire disk, which permanently removes all existing data. Backing up files beforehand ensures that no important data is lost during this process.
+KEY DECISIONS MADE:
+- Chose full backup instead of partial backup
+- Decided to fully replace macOS instead of dual boot
 
-### Challenges
-- Ensuring all important files were identified and not overlooked
-- Managing large files separately from the main backup process
+RISKS / ISSUES ENCOUNTERED:
+- Risk of missing important files
+- Upload failures for large files
 
-### Outcome
-All critical data was successfully backed up and no longer dependent on the local system. The machine was fully prepared for a clean Ubuntu installation without risk of data loss.
-3. Ubuntu 22.04 LTS Clean Install
-4. Post-Install Hardware Config
-5. Security Hardening
-6. Ollama + Local AI Setup
-7. Obsidian Writing Environment
-8. VirtualBox + Kali Security Lab
-9. GitHub Documentation & Portfolio
+OUTCOMES / RESULTS:
+- All critical files successfully backed up
+- System ready for installation
 
-## Hardware
-- Model: MacBook Pro 12,1 (Early 2015)
-- Processor: Dual-Core Intel Core i5 @ 2.7GHz
-- RAM: 8GB
-- OS Target: Ubuntu 22.04 LTS
+EVIDENCE / ARTIFACTS:
+- Google Drive file uploads
+- Verified file access
+
+CURRENT STATUS:
+- Complete
+
+═══════════════════════════════════════
+
+---
+
+## Notes
+
+This project reflects my early stages of learning Linux and system configuration.  
+Future phases will show improvement in technical understanding, efficiency, and documentation quality.
+
+---
+
+## Next Steps
+
+- Add Phase 2 (Ubuntu Installation)
+- Continue documenting each phase
+- Improve documentation structure over time
