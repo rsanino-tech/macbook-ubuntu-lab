@@ -1,3 +1,25 @@
+
+# MacBook Pro 2015 → Ubuntu Conversion Lab
+
+## Overview
+This project documents the full conversion of a 2015 MacBook Pro from macOS to Ubuntu Linux. The goal was to create a lightweight, optimized system for Linux learning, cybersecurity experimentation, and technical documentation.
+
+## Why This Project Matters
+- Demonstrates system-level deployment and OS replacement
+- Shows structured documentation and risk awareness
+- Provides a repeatable lab environment for cybersecurity learning
+
+## Final Outcome
+- Ubuntu successfully installed and optimized
+- System stable and functional for daily use
+- Foundation established for security and AI lab work
+
+
+
+
+
+
+
 # MacBook Pro 2015 → Ubuntu Linux Conversion
 
 **Operator:** Rafael San Inocencio
