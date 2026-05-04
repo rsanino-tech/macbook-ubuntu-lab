@@ -51,7 +51,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
     .ossssssssssssssssssdMMMNysssso.       
       -+sssssssssssssssssyyyssss+-         
         `:+ssssssssssssssssss+:`
-            .-/+oossssoo/-.
+            .-/+oossssoo+/-.
 ```
 
 ## Key Specs
