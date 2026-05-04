@@ -51,3 +51,22 @@ If port 22 is blocked by a firewall or the SSH service is not listening, SSH con
 - What worked
 - What failed
 - What was learned
+
+## Lab Environment Setup
+
+This lab was performed using multiple devices to simulate a real-world remote access workflow.
+
+### Devices Used
+- MacBook Pro (Ubuntu 24.04 LTS) — Target system
+- Mac Mini — SSH client
+- MacBook Air — Secondary control device
+
+### Setup Description
+I configured SSH access on the Ubuntu system and successfully connected from the Mac Mini using the local network IP address.
+
+Additionally, I was able to control and test connections from multiple devices, verifying that the system could accept remote connections across the same network.
+
+### Key Takeaways
+- SSH allows secure remote access between different operating systems
+- Local network IP addressing is critical for device-to-device communication
+- Multi-device testing helps validate real-world connectivity scenarios

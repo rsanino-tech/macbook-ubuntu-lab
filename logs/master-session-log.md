@@ -6,7 +6,7 @@ Notes: Created a beginner Linux file management lab with draft, final, and log d
 
 ## Project 2 — Remote Access with SSH
 Status: In Progress
-Notes: The remote-access lab now contains README documentation, `setup_ssh_lab.sh`, `notes/ssh-lab-notes.md`, and `logs/ssh_setup_example.log`. Planned hands-on tasks still include testing SSH setup on the actual Ubuntu system.
+Notes: The remote-access lab now contains README documentation, `setup_ssh_lab.sh`, `notes.md`, and `ssh_setup_example.log`. Planned hands-on tasks still include testing SSH setup on the actual Ubuntu system.
 
 ## Project 3 — Network Mapping with Nmap
 Status: Not Started

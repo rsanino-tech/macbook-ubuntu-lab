@@ -5,7 +5,7 @@
 
 ---
 
-Today I added a structured Linux file management lab under the `linux-security-labs/` directory. The lab focuses on basic terminal skills, including creating folders, creating files, editing text with nano, organizing files, and verifying work from the command line.
+Today I added a structured Linux file management lab under the `file-management-lab/` directory. The lab focuses on basic terminal skills, including creating folders, creating files, editing text with nano, organizing files, and verifying work from the command line.
 
 The project includes a draft letter, a final copied version, an activity log, and a README that explains the purpose of the lab, the commands used, and future improvement ideas.
 
