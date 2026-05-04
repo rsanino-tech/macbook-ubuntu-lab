@@ -1,70 +1,82 @@
-# System Optimization Lab
+# Linux Security Lab
 
 ## Objective
 
-This project documents the process of converting and optimizing a 2015 MacBook Pro into a stable Ubuntu-based system. The goal was to understand system behavior, identify issues, and improve performance through structured troubleshooting.
+This repository documents a hands-on Linux learning lab, beginning with the installation and optimization of Ubuntu on a 2015 MacBook Pro and expanding into remote access, networking, and security-focused Linux projects.
 
----
-## Project Structure
+## Repository Origin
 
-This project is organized into phases. Each phase represents a step in the system optimization process.
+This repository originally began as a system optimization project focused on converting a 2015 MacBook Pro into a stable Ubuntu-based system. The early phase files document installation, post-install configuration, security hardening, local AI setup, performance optimization, terminal customization, and documentation integration.
 
-Start with Phase 02 and follow sequentially to understand the full progression:
+## Repository Structure
 
-- phase-02-clean-install.md  
-- phase-03-post-install.md  
-- phase-04-security-hardening.md  
-- phase-05-local-ai-setup.md  
-- phase-06-performance-optimization.md  
-- phase-07-terminal-customization.md  
-- phase-08-documentation-integration.md
+```text
+docs/
+  hardware-specs.md
 
-  
-## Context
+phases/
+  phase-02-clean-install.md
+  phase-03-post-install.md
+  phase-04-security-hardening.md
+  phase-05-local-ai-setup.md
+  phase-06-performance-optimization.md
+  phase-07-terminal-customization.md
+  phase-08-documentation-integration.md
 
-In real-world environments, systems often require adjustments to function properly. Performance issues, configuration problems, and compatibility challenges are common and must be addressed through methodical problem-solving.
+linux/
+  file-management-lab/
 
-This project reflects that process by focusing on identifying issues, testing solutions, and improving system performance step by step.
+logs/
+```
 
----
+## Current Lab Expansion
+
+- File Management Lab
+- Remote Access with SSH
+- Network Mapping with Nmap
 
 ## Actions Taken
 
-- Installed Ubuntu on a 2015 MacBook Pro  
-- Configured system settings and dependencies  
-- Identified and troubleshot Wi-Fi instability issues  
-- Tested multiple desktop environments (GNOME and XFCE)  
-- Monitored system performance using tools such as htop  
-- Applied system adjustments to improve stability and usability  
-- Documented each step to maintain clarity and repeatability  
-
----
+- Converted the original repository structure into a cleaner lab format.
+- Moved hardware documentation into [docs/hardware-specs.md](docs/hardware-specs.md).
+- Moved installation and optimization phase files into the [phases/](phases/) directory.
+- Preserved the existing Ubuntu installation and system optimization history.
+- Added a beginner Linux file management project under [linux/file-management-lab/](linux/file-management-lab/).
+- Organized session logs under [logs/](logs/).
 
 ## Analysis
 
-During the process, several issues were encountered, including system instability after environment changes and inconsistent network performance.
+The repository now separates hardware documentation, phase-based setup notes, Linux practice labs, and session logs. This makes the project easier to navigate while preserving the original system optimization work as the foundation for future Linux security practice.
 
-Each issue was approached by isolating variables, testing configurations, and observing system behavior rather than applying random fixes. This helped determine which changes improved performance and which introduced new problems.
-
----
+The current structure supports a gradual learning path. It begins with system installation and stability, then expands into practical Linux administration, remote access, networking, and security-focused topics.
 
 ## Outcome
 
-The system was stabilized and made usable for regular tasks. More importantly, the process created a structured understanding of how system configuration, resource usage, and environment changes affect overall performance.
-
----
+The repository is now prepared to evolve from a system optimization project into a broader Linux security lab. Existing documentation remains available, while new lab work can be added in a consistent structure.
 
 ## Key Takeaways
 
-- Structured troubleshooting leads to better outcomes than trial-and-error fixes  
-- Clear documentation improves repeatability and understanding  
-- System performance depends on multiple interacting factors  
-- Breaking down complex problems makes them easier to solve
-  
+- Clear folder structure makes technical documentation easier to maintain.
+- Preserving original project history helps show learning progression.
+- Separating phases, labs, hardware notes, and logs keeps the repository easier to scan.
+- Beginner Linux skills provide a useful foundation for security and networking projects.
+
 ## Environment
 
-System specifications used for this project are documented in `hardware-specs.md`.
+System specifications for the original Ubuntu setup are documented in [docs/hardware-specs.md](docs/hardware-specs.md).
+
+Related phase documentation:
+
+- [phase-02-clean-install.md](phases/phase-02-clean-install.md)
+- [phase-03-post-install.md](phases/phase-03-post-install.md)
+- [phase-04-security-hardening.md](phases/phase-04-security-hardening.md)
+- [phase-05-local-ai-setup.md](phases/phase-05-local-ai-setup.md)
+- [phase-06-performance-optimization.md](phases/phase-06-performance-optimization.md)
+- [phase-07-terminal-customization.md](phases/phase-07-terminal-customization.md)
+- [phase-08-documentation-integration.md](phases/phase-08-documentation-integration.md)
 
 ## Logs
 
-Session logs capture observations, issues encountered, and decisions made throughout the process. These provide insight into real-time troubleshooting and system behavior.
+Session logs capture observations, issues encountered, and decisions made throughout the project. Logs are stored in [logs/](logs/).
+
+The master session log is available at [logs/master-session-log.md](logs/master-session-log.md).
