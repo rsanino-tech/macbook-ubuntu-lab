@@ -15,16 +15,15 @@ This beginner Linux lab demonstrates basic file system operations using the term
 ## Project Structure
 
 ```text
-linux-security-labs/
-└── file-management-lab/
-    ├── README.md
-    ├── practice.sh
-    ├── drafts/
-    │   └── letter.txt
-    ├── final/
-    │   └── final_letter.txt
-    └── logs/
-        └── activity.log
+file-management-lab/
+├── README.md
+├── practice.sh
+├── drafts/
+│   └── letter.txt
+├── final/
+│   └── final_letter.txt
+└── logs/
+    └── activity.log
 ```
 
 ## Commands Used
@@ -41,7 +40,7 @@ linux-security-labs/
 
 ## Running the Script
 
-The `practice.sh` script automates the core file management steps in this lab. From the `linux-security-labs/file-management-lab/` directory, run:
+The `practice.sh` script automates the core file management steps in this lab. From the `file-management-lab/` directory, run:
 
 ```bash
 chmod +x practice.sh

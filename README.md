@@ -11,34 +11,15 @@ This repository originally began as a system optimization project focused on con
 ## Repository Structure
 
 ```text
-docs/
-  hardware-specs.md
-
-linux-setup-phases/
-  phase-02-clean-install.md
-  phase-03-post-install.md
-  phase-04-security-hardening.md
-  phase-05-local-ai-setup.md
-  phase-06-performance-optimization.md
-  phase-07-terminal-customization.md
-  phase-08-documentation-integration.md
-
-linux-security-labs/
-  file-management-lab/
-    README.md
-    practice.sh
-    drafts/
-    final/
-    logs/
-  remote-access-lab/
-    README.md
-    setup_ssh_lab.sh
-    notes/
-    logs/
-  network-mapping-lab/
-    README.md
-
-logs/
+linux-security-lab/
+├── README.md
+├── system-info/
+│   └── macbook-ubuntu-specs.md
+├── linux-setup-phases/
+├── file-management-lab/
+├── remote-access-lab/
+├── network-mapping-lab/
+└── logs/
 ```
 
 ## Current Lab Expansion
@@ -50,11 +31,11 @@ logs/
 ## Actions Taken
 
 - Converted the original repository structure into a cleaner lab format.
-- Moved hardware documentation into [docs/hardware-specs.md](docs/hardware-specs.md).
+- Moved hardware documentation into [system-info/macbook-ubuntu-specs.md](system-info/macbook-ubuntu-specs.md).
 - Moved installation and optimization phase files into the [linux-setup-phases/](linux-setup-phases/) directory.
 - Preserved the existing Ubuntu installation and system optimization history.
-- Added a beginner Linux file management project under [linux-security-labs/file-management-lab/](linux-security-labs/file-management-lab/).
-- Added [practice.sh](linux-security-labs/file-management-lab/practice.sh) to automate file-management tasks and log actions.
+- Added a beginner Linux file management project under [file-management-lab/](file-management-lab/).
+- Added [practice.sh](file-management-lab/practice.sh) to automate file-management tasks and log actions.
 - Expanded the Remote Access Lab with SSH documentation, safe example script, notes, and sample log structure.
 - Organized session logs under [logs/](logs/).
 
@@ -89,7 +70,7 @@ The repository is now prepared to evolve from a system optimization project into
 
 ## Environment
 
-System specifications for the original Ubuntu setup are documented in [docs/hardware-specs.md](docs/hardware-specs.md).
+System specifications for the original Ubuntu setup are documented in [system-info/macbook-ubuntu-specs.md](system-info/macbook-ubuntu-specs.md).
 
 The phase documentation index is available at [linux-setup-phases/README.md](linux-setup-phases/README.md).
 
