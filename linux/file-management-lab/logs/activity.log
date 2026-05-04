@@ -1,0 +1,16 @@
+[Day 1 - Linux File Management Lab]
+
+Completed Tasks:
+- Created project folder
+- Created file using touch
+- Edited file using nano
+- Saved file from nano
+- Verified content using cat
+- Organized files into drafts, final, and logs
+- Practiced navigation and file management
+
+Key Commands Used:
+mkdir, cd, pwd, touch, nano, cat, mv, cp, ls
+
+Reflection:
+This lab helped build confidence using the Linux terminal and understanding file systems without relying on a GUI.

@@ -1,0 +1,7 @@
+Dear Future Me,
+
+Today I practiced using the Linux terminal to create folders, create files, edit text with nano, and verify my work using the command line.
+
+This is the beginning of building real technical skills.
+
+- Author
