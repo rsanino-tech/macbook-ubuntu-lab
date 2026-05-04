@@ -4,8 +4,6 @@
 
 This repository documents a hands-on Linux learning lab, beginning with the installation and optimization of Ubuntu on a 2015 MacBook Pro and expanding into remote access, networking, and security-focused Linux projects.
 
-Repository name: `linux-security-lab`
-
 ## Repository Origin
 
 This repository originally began as a system optimization project focused on converting a 2015 MacBook Pro into a stable Ubuntu-based system. The early phase files document installation, post-install configuration, security hardening, local AI setup, performance optimization, terminal customization, and documentation integration.
@@ -27,6 +25,15 @@ phases/
 
 linux/
   file-management-lab/
+    README.md
+    practice.sh
+    drafts/
+    final/
+    logs/
+  remote-access-lab/
+    README.md
+  network-mapping-lab/
+    README.md
 
 logs/
 ```
@@ -44,7 +51,20 @@ logs/
 - Moved installation and optimization phase files into the [phases/](phases/) directory.
 - Preserved the existing Ubuntu installation and system optimization history.
 - Added a beginner Linux file management project under [linux/file-management-lab/](linux/file-management-lab/).
+- Added [practice.sh](linux/file-management-lab/practice.sh) to automate file-management tasks and log actions.
 - Organized session logs under [logs/](logs/).
+
+## Phase Documentation
+
+The [phases/](phases/) directory preserves the original Ubuntu installation and system optimization history. These files document the setup path that led into the broader Linux security lab.
+
+- [Phase 2: Clean Install](phases/phase-02-clean-install.md): Documents the Ubuntu 24.04 LTS installation and initial system setup.
+- [Phase 3: Post-Install Configuration](phases/phase-03-post-install.md): Covers basic system configuration after installation.
+- [Phase 4: Security Hardening](phases/phase-04-security-hardening.md): Documents baseline firewall and security hardening steps.
+- [Phase 5: Local AI Setup](phases/phase-05-local-ai-setup.md): Covers Ollama setup and lightweight local AI testing.
+- [Phase 6: Performance Optimization](phases/phase-06-performance-optimization.md): Documents XFCE setup and resource-usage improvements.
+- [Phase 7: Terminal Customization](phases/phase-07-terminal-customization.md): Covers prompt customization and terminal usability changes.
+- [Phase 8: Documentation Integration](phases/phase-08-documentation-integration.md): Documents repository setup, GitHub usage, and project documentation work.
 
 ## Analysis
 
@@ -67,15 +87,7 @@ The repository is now prepared to evolve from a system optimization project into
 
 System specifications for the original Ubuntu setup are documented in [docs/hardware-specs.md](docs/hardware-specs.md).
 
-Related phase documentation:
-
-- [phase-02-clean-install.md](phases/phase-02-clean-install.md)
-- [phase-03-post-install.md](phases/phase-03-post-install.md)
-- [phase-04-security-hardening.md](phases/phase-04-security-hardening.md)
-- [phase-05-local-ai-setup.md](phases/phase-05-local-ai-setup.md)
-- [phase-06-performance-optimization.md](phases/phase-06-performance-optimization.md)
-- [phase-07-terminal-customization.md](phases/phase-07-terminal-customization.md)
-- [phase-08-documentation-integration.md](phases/phase-08-documentation-integration.md)
+The phase documentation index is available at [phases/README.md](phases/README.md).
 
 ## Logs
 
