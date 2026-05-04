@@ -1,4 +1,4 @@
-# Session Log - Entry 002
+# 002 - Linux File Management Lab
 **Date:** May 4, 2026
 **Project:** Linux File Management Lab
 **Phase Completed:** Beginner Linux file management practice

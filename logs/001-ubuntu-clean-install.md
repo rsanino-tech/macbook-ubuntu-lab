@@ -1,4 +1,4 @@
-# Session Log — Entry 001
+# 001 - Ubuntu Clean Install
 **Date:** April 6, 2026
 **Project:** MacBook Pro 2015 → Ubuntu Linux Conversion
 **Phase Completed:** Phase 1 & 2 — Backup & Clean Install
