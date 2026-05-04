@@ -4,6 +4,8 @@
 
 This repository documents a hands-on Linux learning lab, beginning with the installation and optimization of Ubuntu on a 2015 MacBook Pro and expanding into remote access, networking, and security-focused Linux projects.
 
+Repository name: `linux-security-lab`
+
 ## Repository Origin
 
 This repository originally began as a system optimization project focused on converting a 2015 MacBook Pro into a stable Ubuntu-based system. The early phase files document installation, post-install configuration, security hardening, local AI setup, performance optimization, terminal customization, and documentation integration.
