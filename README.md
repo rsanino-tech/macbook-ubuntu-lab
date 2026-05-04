@@ -32,6 +32,9 @@ linux-security-labs/
     logs/
   remote-access-lab/
     README.md
+    setup_ssh_lab.sh
+    notes/
+    logs/
   network-mapping-lab/
     README.md
 
@@ -52,6 +55,7 @@ logs/
 - Preserved the existing Ubuntu installation and system optimization history.
 - Added a beginner Linux file management project under [linux-security-labs/file-management-lab/](linux-security-labs/file-management-lab/).
 - Added [practice.sh](linux-security-labs/file-management-lab/practice.sh) to automate file-management tasks and log actions.
+- Expanded the Remote Access Lab with SSH documentation, safe example script, notes, and sample log structure.
 - Organized session logs under [logs/](logs/).
 
 ## Phase Documentation
