@@ -15,7 +15,8 @@ linux-security-lab/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
-├── macbook-ubuntu-specs.md
+├── system-info/
+│   └── macbook-ubuntu-specs.md
 ├── linux-setup-phases/
 ├── file-management-lab/
 ├── remote-access-lab/
@@ -32,7 +33,7 @@ linux-security-lab/
 ## Actions Taken
 
 - Converted the original repository structure into a cleaner lab format.
-- Moved hardware documentation into [macbook-ubuntu-specs.md](macbook-ubuntu-specs.md).
+- Moved hardware documentation into [system-info/macbook-ubuntu-specs.md](system-info/macbook-ubuntu-specs.md).
 - Moved installation and optimization phase files into the [linux-setup-phases/](linux-setup-phases/) directory.
 - Preserved the existing Ubuntu installation and system optimization history.
 - Added a beginner Linux file management project under [file-management-lab/](file-management-lab/).
@@ -71,7 +72,7 @@ The repository is now prepared to evolve from a system optimization project into
 
 ## Environment
 
-System specifications for the original Ubuntu setup are documented in [macbook-ubuntu-specs.md](macbook-ubuntu-specs.md).
+System specifications for the original Ubuntu setup are documented in [system-info/macbook-ubuntu-specs.md](system-info/macbook-ubuntu-specs.md).
 
 The phase documentation index is available at [linux-setup-phases/README.md](linux-setup-phases/README.md).
 
